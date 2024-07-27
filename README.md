@@ -8,3 +8,5 @@
 - Vite
 - ESLint
 - Prettier
+- Pinia 
+- Vue Query
